@@ -10,7 +10,7 @@ permalink: /works/
 #### Ground state and infinite multiplicity for fractional $p$-Laplacian equations on R^N with logarithmic nonlinearity and (possible) critical growth; periodic and asymptotically periodic potentials
 - **Authors:** Gabriel Nóbrega Bufolo
 - **Date:** 2026
-- **Links:** [PDF](https://github.com/gnb1007/preprints/blob/a744ee66fa0c19744d091d32ef94635ed2a5d320/analysis/JDEQ26-782.pdf)
+- **Links:** [PDF](https://github.com/gnb1007/preprints/raw/analysis/JDEQ26-782.pdf)
 
 ---
 
